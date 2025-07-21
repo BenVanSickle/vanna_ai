@@ -1,0 +1,8 @@
+chroma.sqlite3
+schema_list.py
+
+.ipynb_checkpoints/
+.webui_secret_key
+
+*/
+
